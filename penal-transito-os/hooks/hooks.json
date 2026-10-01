@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'penal-transito-os carregado — minutas sujeitas à revisão do advogado; conferir corpus e datas do caso'",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

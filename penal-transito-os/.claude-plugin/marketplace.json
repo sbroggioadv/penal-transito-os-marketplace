@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "penal-transito-os",
+  "description": "Apoio ao advogado criminalista na defesa ou assistência de acusação em crimes de trânsito, com prova, temporalidade e revisão humana.",
+  "owner": {
+    "name": "Luis Sbroggio",
+    "email": "luis@sbroggio.io"
+  },
+  "plugins": [
+    {
+      "name": "penal-transito-os",
+      "source": "./",
+      "description": "Apoio ao advogado criminalista na defesa ou assistência de acusação em crimes de trânsito, com prova, temporalidade e revisão humana.",
+      "author": {
+        "name": "Luis Sbroggio",
+        "email": "luis@sbroggio.io"
+      },
+      "version": "0.1.0"
+    }
+  ]
+}

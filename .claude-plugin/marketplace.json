@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "penal-transito-os-marketplace",
+  "description": "Apoio ao advogado criminalista na defesa ou assistência de acusação em crimes de trânsito dos arts. 291–312-B do CTB.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "penal-transito-os",
+      "source": "./penal-transito-os",
+      "description": "Apoio ao advogado criminalista na defesa ou assistência de acusação em crimes de trânsito dos arts. 291–312-B do CTB.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      },
+      "version": "0.1.0"
+    }
+  ]
+}

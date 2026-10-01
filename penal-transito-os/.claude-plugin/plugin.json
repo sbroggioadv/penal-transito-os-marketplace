@@ -1,0 +1,9 @@
+{
+  "name": "penal-transito-os",
+  "version": "0.1.0",
+  "description": "Apoio ao advogado criminalista na defesa ou assistência de acusação em crimes de trânsito, com prova, temporalidade e revisão humana.",
+  "author": {
+    "name": "Luis Sbroggio",
+    "email": "luis@sbroggio.io"
+  }
+}
