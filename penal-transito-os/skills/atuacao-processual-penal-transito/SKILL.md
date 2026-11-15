@@ -29,7 +29,7 @@ Ler `context/ctb-penal-transito.md:73-83` (CTB 291) e o dispositivo CTB do tipo 
 
 ## Saída
 
-Entregar seleção fundamentada de competência/rito e uma única peça ou roteiro do ato pedido, com polo, cronologia, prova, fontes locais por artigo/linha, pendências e revisão humana. Bloquear minuta dependente de juízo, capitulação, ciência, fase ou prova não demonstrados. Selar artigo sem texto ou versão histórica não capturada 🟡; nunca usar peça penal genérica como substituto. Estado: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Dados de cliente em pasta privada por matéria, sem publicação ou envio externo. Suporte: luis@sbroggio.io.
+Entregar seleção fundamentada de competência/rito e uma única peça ou roteiro do ato pedido, com polo, cronologia, prova, fontes locais por artigo/linha, pendências e revisão humana. Bloquear minuta dependente de juízo, capitulação, ciência, fase ou prova não demonstrados. Selar artigo sem texto ou versão histórica não capturada 🟡; nunca usar peça penal genérica como substituto. Estado: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Dados de cliente em pasta privada por matéria, sem publicação ou envio externo. Suporte: suporte@iapx.pro.
 
 ## Controles obrigatórios, inclusive chamada direta
 

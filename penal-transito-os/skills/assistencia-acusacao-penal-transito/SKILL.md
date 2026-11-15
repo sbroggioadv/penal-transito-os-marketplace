@@ -27,7 +27,7 @@ Receber identificação privada do sinistro, polo escolhido, tipo CTB imputado, 
 
 ## Entrega e bloqueios
 
-Entregar matriz `pessoa → vínculo/prova → ação/juízo/fase → admissão/decisão → poder invocado → prejuízo/prova → pedido cabível → fonte/trecho → pendência`, seguida, quando possível, de minuta para revisão humana. Vínculo, admissão, fase, dano ou quantum não demonstrados bloqueiam pedido dependente. Rotular inferências e valores incertos 🟡; não inventar recibo, laudo, protocolo ou decisão. Estado: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Dados de cliente ficam apenas na pasta privada por matéria, fora do código; sem envio externo. Suporte: luis@sbroggio.io.
+Entregar matriz `pessoa → vínculo/prova → ação/juízo/fase → admissão/decisão → poder invocado → prejuízo/prova → pedido cabível → fonte/trecho → pendência`, seguida, quando possível, de minuta para revisão humana. Vínculo, admissão, fase, dano ou quantum não demonstrados bloqueiam pedido dependente. Rotular inferências e valores incertos 🟡; não inventar recibo, laudo, protocolo ou decisão. Estado: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Dados de cliente ficam apenas na pasta privada por matéria, fora do código; sem envio externo. Suporte: suporte@iapx.pro.
 
 ## Controles obrigatórios, também em chamada direta
 

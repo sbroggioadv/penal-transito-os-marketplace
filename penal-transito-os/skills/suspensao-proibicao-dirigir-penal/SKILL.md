@@ -27,4 +27,4 @@ O cumprimento nesta skill abrange só CTB 293 §§1º–2º, 295 (`context/ctb-p
 
 Entregue tabela `natureza → título/fase → prova → regra e trecho → pedido/resposta do polo → pendência`, cronologia de intimação e atos, argumentos contrários e status `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Lacuna impeditiva exclui minuta apresentável.
 
-Ao final, execute `anti-alucinacao-penal-transito` → `validador-penal-transito` → `suprema-corte-penal-transito` em R1 fatos/polo/fase/competência, R2 tipicidade/tempo, R3 prova/citações e R4 forma/prazo/limites. Corrija ou retire o reprovado; dependência não disponível mantém revisão pendente e impede rotular a minuta como revisada. Suporte: luis@sbroggio.io.
+Ao final, execute `anti-alucinacao-penal-transito` → `validador-penal-transito` → `suprema-corte-penal-transito` em R1 fatos/polo/fase/competência, R2 tipicidade/tempo, R3 prova/citações e R4 forma/prazo/limites. Corrija ou retire o reprovado; dependência não disponível mantém revisão pendente e impede rotular a minuta como revisada. Suporte: suporte@iapx.pro.

@@ -1,6 +1,6 @@
 # Penal Trânsito OS
 
-`penal-transito-os` · versão 0.1.0 · Luis Sbroggio · suporte: **luis@sbroggio.io**.
+`penal-transito-os` · versão 0.1.1 · Luis Sbroggio · suporte: **suporte@iapx.pro**.
 
 Plugin para o advogado criminalista que atua na **defesa do acusado** ou na **assistência de acusação da vítima/família** em matéria penal de trânsito. A versão contém **20 skills em 6 camadas e 17 comandos**.
 

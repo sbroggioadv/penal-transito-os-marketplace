@@ -27,6 +27,6 @@ Receber polo, tipo CTB, decisão/acórdão integral, juízo **real**, eventual c
 
 ## Saída e controles
 
-Entregar seleção motivada e uma minuta condicionada quando fonte, legitimidade, ato e prazo forem demonstrados; caso contrário, matriz de pendências 🟡. Não afirmar protocolo, decisão, admissibilidade ou êxito. Sem fonte textual de norma excepcional, nenhum recurso excepcional pronto. Estado: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Dados de cliente em pasta privada por matéria, sem envio externo. Suporte: luis@sbroggio.io.
+Entregar seleção motivada e uma minuta condicionada quando fonte, legitimidade, ato e prazo forem demonstrados; caso contrário, matriz de pendências 🟡. Não afirmar protocolo, decisão, admissibilidade ou êxito. Sem fonte textual de norma excepcional, nenhum recurso excepcional pronto. Estado: `MINUTA PARA REVISÃO HUMANA`, `PENDENTE DE PROVA`, `PENDENTE DE FONTE`, `BLOQUEADO` ou `FORA DO RECORTE`. Dados de cliente em pasta privada por matéria, sem envio externo. Suporte: suporte@iapx.pro.
 
 Executar `anti-alucinacao-penal-transito` sobre documentos/fatos/citações, `validador-penal-transito` sobre artigo → arquivo/linha → trecho → versão/data → alcance e `suprema-corte-penal-transito` R1 polo/fase/competência, R2 tipo/tempo, R3 prova/precedentes, R4 legitimidade/forma/prazo/fronteira. Registrar achados dos três inclusive em chamada direta; ausência bloqueia peça pronta. Guidance only, sem enforcement automático presumido.

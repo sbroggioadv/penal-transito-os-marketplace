@@ -5,7 +5,7 @@ description: "Configura o penal-transito-os para o advogado criminalista da defe
 
 # Instalação — penal de trânsito
 
-**Guidance only:** estas instruções não substituem verificação de acesso, sigilo ou conflito. A instalação não produz conclusão jurídica. Suporte: **luis@sbroggio.io**.
+**Guidance only:** estas instruções não substituem verificação de acesso, sigilo ou conflito. A instalação não produz conclusão jurídica. Suporte: **suporte@iapx.pro**.
 
 ## Passo 0 — pasta privada
 
